@@ -33,7 +33,7 @@ function changeEditModeAction() {
   }
 }
 
-let initialState = {
+const initialState = {
   clothers: [
     {
       name: 'Apron',
